@@ -1,0 +1,8 @@
+.btn {
+    background-color: red;
+ }
+ .btn.clicked {
+    background-color: blue;
+ }
+
+ 
